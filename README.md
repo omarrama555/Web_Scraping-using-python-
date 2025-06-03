@@ -112,5 +112,5 @@ This project is open-source and free to use. Always give credit if you use the c
 
 ## 📬 Contact
 
-- **Email**: your_email@example.com
-- **GitHub**: [YourProfile](https://github.com/yourusername)
+- **Email**: omarramadan88888888g@gmail.com
+- **GitHub**: [YourProfile](https://github.com/omarrama555)
