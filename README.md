@@ -86,11 +86,6 @@ Coming soon: Scrape job titles, companies, and locations.
 
 ---
 
-## ⚠️ Legal Disclaimer
-
-This project is **for educational purposes only**. Please review the terms of service of any website you scrape.
-
----
 
 ## 📦 Folder Structure
 
