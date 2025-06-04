@@ -87,15 +87,6 @@ Coming soon: Scrape job titles, companies, and locations.
 ---
 
 
-## 📦 Folder Structure
-
-```
-web-scraping-projects/
-├── jumia_scraper.py
-├── jumia_laptops.csv
-├── README.md
-├── requirements.txt
-```
 
 ---
 
