@@ -90,12 +90,6 @@ Coming soon: Scrape job titles, companies, and locations.
 
 ---
 
-## 📜 License
-
-This project is open-source and free to use. Always give credit if you use the code.
-
----
-
 ## 📬 Contact
 
 - **Email**: omarramadan88888888g@gmail.com
